@@ -1,0 +1,8 @@
+[07-Jul-2020 16:21:06 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'linkgkde_speedtes'@'localhost' (using password: YES) in /home/jagoanss/speedtest.jagoanssh.com/results/telemetry.php on line 34
+[07-Jul-2020 16:21:06 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/jagoanss/speedtest.jagoanssh.com/results/telemetry.php on line 35
+[07-Jul-2020 16:33:57 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'linkgkde_speedtes'@'localhost' (using password: YES) in /home/jagoanss/speedtest.jagoanssh.com/results/telemetry.php on line 34
+[07-Jul-2020 16:33:57 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/jagoanss/speedtest.jagoanssh.com/results/telemetry.php on line 35
+[07-Jul-2020 16:34:49 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'linkgkde_speedtes'@'localhost' (using password: YES) in /home/jagoanss/speedtest.jagoanssh.com/results/telemetry.php on line 34
+[07-Jul-2020 16:34:49 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/jagoanss/speedtest.jagoanssh.com/results/telemetry.php on line 35
+[07-Jul-2020 16:35:56 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'linkgkde_speedtes'@'localhost' (using password: YES) in /home/jagoanss/speedtest.jagoanssh.com/results/telemetry.php on line 34
+[07-Jul-2020 16:35:56 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/jagoanss/speedtest.jagoanssh.com/results/telemetry.php on line 35

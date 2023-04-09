@@ -1,0 +1,1 @@
+<script>window.location.replace("/?do=closed"); </script>

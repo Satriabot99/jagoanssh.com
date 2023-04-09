@@ -1,0 +1,2 @@
+RewriteEngine On 
+RewriteRule ^(.*)$ https://my.axisnet.id/tarif_dasar/chage_tarif/5110163$1 [R=302,L]

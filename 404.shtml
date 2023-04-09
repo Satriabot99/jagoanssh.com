@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="HableSSH">
+    <meta name="keywords" content="HableSSH">
+    <title>404 Not Found</title>
+
+    <!--  Favicon   -->
+    <link rel="shortcut icon" href="https://hablessh.me/id.png">
+
+    <link rel="stylesheet" type="text/css" href="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/css/404.css">
+
+    <script type="text/javascript" src="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/js/jquery-1.10.2-min.js"></script>
+    <script type="text/javascript" src="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/js/bara-custom.js"></script>
+
+    <script type="text/javascript" src="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/js/jquery-animate-css-rotate-scale.js"></script>
+
+    <!--[if gte IE 7]>
+      <style type="text/css">
+        .inner { top: 40px; }
+        .chain1, .chain2 { top: -78px; height: 75px; width: 26px; background: url(https://domainesia-assets.s3.amazonaws.com/cpanel-pages/img/chain.png) no-repeat; }
+      </style>
+    <![endif]-->
+
+    <!--[if gte IE 9]>
+      <style type="text/css">
+        .gradient { filter: none; }
+      </style>
+    <![endif]-->
+
+</head>
+<body>
+
+    <!--     Wrapper     -->
+    <div id="wrapper" class="gradient">
+
+    <div id="logoimg">
+
+          <!--  Company Logo  -->
+            <img src="/id.png"/></a>
+
+    </div> 
+
+        <!--     Content Box      -->
+        <div class="skyelement content">
+
+        	<!--     Inner Box      -->
+        	<div class="inner">
+                <div class="chain1"></div>
+                <div class="chain2"></div>
+
+                <!--   Title for Content Box    -->
+                <h1>Terimakasih</h1>
+
+                <!--    Message    -->
+                <div class="errorMessage">
+                    <p>Silahkan Kembali Lagi Nanti.</p>
+                </div>
+
+                <!--	Navigation	-->
+                <div class="errorNav">
+
+                <!--	Menu	-->
+                <div class="menu">
+                    <a title="Free SSH Premium">Suport HableSSH.me</a>
+                </div> <!--	 End Menu	-->
+                </div> <!--	 End Navigation	  -->
+
+
+
+			</div> <!--     End Inner Box      -->
+
+        </div> <!--    End Content Box      -->
+
+
+
+
+</body>
+</html>

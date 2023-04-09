@@ -1,0 +1,20 @@
+{
+  "ads":"true",
+  "update":[{
+    "version":"",
+    "title":"Ayo update aplikasi kamu",
+    "description":"Semua server tersedia di aplikasi yang baru",
+    "size":"segera lah update"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
+  ],
+  "free":[
+  ]
+}

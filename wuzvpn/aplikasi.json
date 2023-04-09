@@ -1,0 +1,33 @@
+{
+  "ads":"true",
+  "update":[{
+    "version":"",
+    "title":"WUZ VPN",
+    "description":"POWERED BY: JAGOANSSH.COM",
+    "size":""
+  }],
+  "blocked":[
+   ],
+  "free":[
+    {"id":0, "file":0, "city":"Canada","country":"Canada","image":"canada","ip":"142.44.247.117","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"United States","country":"United States","image":"unitedstates","ip":"74.208.150.70","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Singapore","country":"Singapore","image":"singapore","ip":"5.34.176.217","active":"true","signal":"a"},
+    {"id":3, "file":3, "city":"France","country":"France","image":"france","ip":"51.83.68.243","active":"true","signal":"a"},
+    {"id":4, "file":4, "city":"France","country":"France","image":"france","ip":"51.77.201.140","active":"true","signal":"a"},
+    {"id":5, "file":5, "city":"Germany","country":"Germany","image":"germany","ip":"217.160.57.241","active":"true","signal":"a"},
+    {"id":6, "file":6, "city":"Poland","country":"Poland","image":"poland","ip":"51.38.130.149","active":"true","signal":"a"},
+    {"id":7, "file":7, "city":"Russia","country":"Russia","image":"russia","ip":"185.118.165.25","active":"true","signal":"a"},
+  
+    {"id":8, "file":8, "city":"Japan","country":"Japan","image":"japan","ip":"110.132.148.63","active":"true","signal":"a"},
+    {"id":9, "file":9, "city":"Japan","country":"Japan","image":"japan","ip":"159.28.160.86","active":"true","signal":"a"},
+    {"id":10, "file":10, "city":"Vietnam","country":"Vietnam","image":"vietnam","ip":"183.81.4.189","active":"true","signal":"a"},
+    {"id":11, "file":11, "city":"Thailand","country":"Thailand","image":"thailand","ip":"184.22.251.126","active":"true","signal":"a"},
+    {"id":12, "file":12, "city":"United Kingdom","country":"United Kingdom","image":"unitedkingdom","ip":"45.87.213.134","active":"true","signal":"a"},
+    {"id":13, "file":13, "city":"(OMG) Vietnam","country":"(OMG) Vietnam","image":"vietnam","ip":"27.64.206.135","active":"true","signal":"a"},
+    {"id":14, "file":14, "city":"(OMG) Canada","country":"(OMG) Canada","image":"canada","ip":"24.66.110.221","active":"true","signal":"a"},
+    {"id":15, "file":15, "city":"(OMG) Thailand","country":"(OMG) Thailand","image":"thailand","ip":"119.76.19.5","active":"true","signal":"a"},
+    {"id":16, "file":16, "city":"(OMG) Australia","country":"(OMG) Australia","image":"australia","ip":"121.214.67.32","active":"true","signal":"a"},
+    {"id":17, "file":17, "city":"(OMG) Singapore","country":"(OMG) Singapore","image":"singapore","ip":"5.34.176.217","active":"true","signal":"a"},
+    {"id":18, "file":18, "city":"(OMG) Japan","country":"(OMG) Japan","image":"japan","ip":"121.109.219.218","active":"true","signal":"a"}
+  ]
+}

@@ -1,0 +1,375 @@
+@font-face {
+    font-family: 'devisty'; /*a name to be used later*/
+    src:url(../font/twcent.ttf);
+}
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	text-decoration:none;
+	font-family: 'devisty';
+
+}
+
+body{
+	width:100%;
+	max-width:500px;
+	margin:auto;
+}
+.head{
+	background-color:#c0392b;
+	height:40px;
+}
+.head ul li{
+	list-style:none;
+	//background-color:#d4554f;
+	height:40px;
+	min-width:40px;
+	display:inline-block;
+	display: inline-block; margin-right: -4px; 
+}
+.head ul li.logo{
+	background-color:#c0392b;
+	border-right:1px solid #992D22;
+	line-height: 40px;
+	text-align: center;
+	background-image:url(../image/logo.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+.head ul li.title{
+	background-color:#c0392b;
+	border-left:1px solid #D6594C;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	padding-left:10px;
+	color:#461410;
+}
+.logo a{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.home {
+	background-image:url(../image//splash.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	display:block;
+	height:100px;
+	width:100%;
+	margin-top:50px;
+}
+.chat{
+	background-image:url(../image/bull2.png);
+	background-repeat:no-repeat;
+	background-position:center left;
+	padding-left:21px;
+	margin-left:-11px;
+	margin-bottom:5px;	
+}
+.chat .content{
+	background-color:#eee;
+	padding:5px;
+	border-radius:5px;
+	color:#555;
+	font-size:14px;
+}
+
+.startBox{
+	text-align:center;
+	//margin-top:10px;
+	color:#888;
+	padding:0 40px;
+	padding-top:25px;
+}
+.fbLoginBtn{
+	background-color:#4267b2;
+	margin-left:40px;
+	margin-right:40px;
+	height:40px;
+	border-radius:5px;
+	background-image:url(../image/fbLogin.png);
+	background-repeat:no-repeat;
+	background-position:center left;
+	text-align:left;
+	padding-left:45px;
+	line-height: 40px;
+	color: #fff;
+	margin-top:5px;
+	display:block;
+	cursor:pointer;
+}
+
+
+.headNav{
+	height:auto;
+	background-color:#eee;
+	border-bottom:1px solid #ccc;
+	padding-bottom:5px
+}
+.headNav .profile{
+	border:0;
+	padding:5px 12px;
+	color:#666;
+	padding-bottom:0;
+}
+.headNav .profile .avatar{
+
+	width:60px;
+	height:60px;
+	background-color:#8e44ad;
+}
+
+.headNav .profile .info{
+	text-align:left;
+	font-weight:normal;
+	padding-left:5px;
+	border:0;
+}
+
+.infolist{
+	text-align:left;
+	background-repeat:no-repeat;
+	background-position:0px center;
+	height:18px;
+	color:#666;
+	background-color:#eee;
+	padding-left:20px;
+	font-size:12px;
+	line-height: 18px;
+}
+
+.m1{
+	background-image:url(../image/profile_close_1.png);
+}
+.m2{
+	background-image:url(../image/money_1.png);
+}
+.m3{
+	background-image:url(../image/diamond_3.png);
+}
+
+.ctnTitle{
+	display:block;
+	height:25px;
+	background-color:#f8f8f8;
+	color:#888;
+	padding-left:15px;
+	line-height:25px;
+	border-bottom:1px solid #ccc;
+	font-size:14px;
+	font-weight:bold;
+}
+.ctnContent{
+	text-align:center;
+	padding:10px 0;
+}
+
+.ctnContent .list{
+	list-style:none;
+	width:30%;
+	display:inline-block;
+	border:1px solid #ccc;
+	height:75px;
+	background-color:#fafafa;
+	font-size:12px;
+	margin-bottom:4px;
+	padding-top:52px;
+	border-radius:5px;
+	background-repeat:no-repeat;
+	background-position:center 8px;
+	cursor:pointer;
+
+}
+.l1{
+	background-image:url(../image/stamp1.png);
+	color:#2ecc71;
+}
+.l2{
+	background-image:url(../image/stamp2.png);
+	color:#3498db;
+}
+.l3{
+	background-image:url(../image/stamp3.png);
+	color:#9b59b6;
+}
+.l4{
+	background-image:url(../image/stamp4.png);
+	color:#f1c40f;
+}
+.l5{
+	background-image:url(../image/stamp5.png);
+	color:#e74c3c;
+}
+.l6{
+	background-image:url(../image/pascabayar.png);
+	color:#666666;
+}
+
+.fieldPhone,
+.fieldPassword{
+	width:100%;
+	height:32px;
+	border:1px solid #ccc;
+	margin-bottom:10px;
+	line-height:32px;
+	padding-left:28px;
+	border-radius:5px;
+	color:#666;
+	background-image:url(../image/fieldUser.png);
+	background-repeat:no-repeat;
+	background-position:5px center;
+	padding-top:3px;
+}
+.fieldPassword{
+	background-image:url(../image/fieldPass.png);
+}
+.fieldBtnLogin{
+	width:100%;
+	height:32px;
+	border:1px solid #8e44ad;
+	margin-bottom:10px;
+	line-height:32px;
+	border-radius:5px;
+	color:#fff;
+	background-color:#9b59b6;
+	cursor:pointer;
+}
+.alert{
+	width:100%;
+	//border:1px solid #ccc;
+	min-height:32px;
+	border-radius:5px;
+	color:#666;
+	margin-bottom:10px;
+	background-color:#f0f0f0;
+	text-align:left;
+	padding:10px;
+	font-size:14px;
+}
+
+#formInject1,
+#formInject2,
+#formInject3,
+#formInject4,
+#formInject5,
+#formInject6,
+
+{
+	text-align:left;
+	//padding:0 13px;
+}
+
+#formInject2,
+#formInject3,
+#formInject4,
+#formInject5,
+#formInject6
+
+{
+	display:none;
+}
+
+#formInject1 .title { border-top:1px solid #2ecc71}
+#formInject2 .title { border-top:1px solid #3498db}
+#formInject3 .title { border-top:1px solid #9b59b6}
+#formInject4 .title { border-top:1px solid #f1c40f}
+#formInject5 .title { border-top:1px solid #e74c3c}
+#formInject6 .title { border-top:1px solid #888888}
+
+#formInject1 .title .text,
+#formInject2 .title .text,
+#formInject3 .title .text,
+#formInject4 .title .text,
+#formInject5 .title .text,
+#formInject6 .title .text
+{
+	display:inline-block;
+	padding:2px 8px;
+	border-radius:0 0 10px 0;
+	color:#FFFFFF;
+}
+
+#formInject1 .title .text {background-color:#2ecc71}
+#formInject2 .title .text {background-color:#3498db}
+#formInject3 .title .text {background-color:#9b59b6}
+#formInject4 .title .text {background-color:#f1c40f}
+#formInject5 .title .text {background-color:#e74c3c}
+#formInject6 .title .text {background-color:#888888}
+
+
+#formInject1 .content,
+#formInject2 .content,
+#formInject3 .content,
+#formInject4 .content,
+#formInject5 .content,
+#formInject6 .content
+{
+	padding:5px 12px;
+}
+#formInject1 .content .label,
+#formInject2 .content .label,
+#formInject3 .content .label,
+#formInject4 .content .label,
+#formInject5 .content .label,
+#formInject6 .content .label,
+
+.voucher{
+	
+	background-repeat:no-repeat;
+	background-position:0px 3px;
+	padding-left:20px;
+	color: #888;
+	margin-bottom:2px;
+	font-size:14px;
+	min-height:20px;
+	//background-color:#F5D2D2;
+	padding-top:4px
+}
+.lab1{
+	background-image:url(../image/l-detail.png);
+}
+.lab2{
+	background-image:url(../image/l-phone.png);
+}
+.lab3{
+	background-image:url(../image/l-price.png);
+}
+.voucher{
+	background-image:url(../image/l-voucher.png);
+	padding-top:1px;
+	background-position:0px 5px;
+	display:none;
+}
+.voucher input{
+	border:1px solid #ccc;
+	color:#666;
+	padding:0 3px;
+	border-radius:3px;
+	height:25px;
+	width:200px;
+}
+#formInject1 .buy,
+#formInject2 .buy,
+#formInject3 .buy,
+#formInject4 .buy,
+#formInject5 .buy,
+#formInject6 .buy
+
+{
+	width:100px;
+	height:30px;
+	color:#fff;	
+	margin-top:5px;
+	cursor:pointer;
+	border:0
+}
+
+#formInject1 .buy {background-color:#27ae60;}
+#formInject2 .buy {background-color:#2980b9;}
+#formInject3 .buy {background-color:#8e44ad;}
+#formInject4 .buy {background-color:#f39c12;}
+#formInject5 .buy {background-color:#c0392b;}
+#formInject6 .buy {background-color:#666666;}
